@@ -1,0 +1,8 @@
+$theme-colors: (
+  "one": #5f0035,
+  "two": #1dbcdf,
+  "transparent": rgba(255, 255, 255, 0.1),
+  // "white": "#FFFFFF",
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
